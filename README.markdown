@@ -1,5 +1,7 @@
 # Code for DC - The Rat Hack
 
+THIS REPOSITORY IS AN ARCHIVE. PLEASE SEE THE LIVE VERSION AT OUR CODE FOR DC ACCOUNT: [https://github.com/codefordc/the-rat-hack](https://github.com/codefordc/the-rat-hack)
+
 Orkin Pest Control recently named Washington DC the third "rattiest" city in America, and long-time DC residents know that rodent populations have been on the rise. Mayor Bowser announced a "Rat Riddance" intitiative in 2016, which aims to reduce rodent populations through changes in commercial practice and community awareness campaigns. In support of these efforts, the DC Office of the Chief Technology Officer (OCTO) has been analyzing 311 service request data related to rodent abatement requests and developing models to predict upticks in rat-related complaints in space and time.
 
 The goals for our project are 2-fold:
